@@ -58,8 +58,6 @@ function Footer() {
             </div>
           </div>
         </div>
-        <br></br>
-        <br></br>
         <div class='team-row'>
           <div class='headshot'>
             <h2>Christian Robinson</h2>
