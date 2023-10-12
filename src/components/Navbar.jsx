@@ -64,21 +64,6 @@ export default function WithSubnavigation() {
             <DesktopNav />
           </Flex>
         </Flex>
-
-        <Stack
-          flex={{ base: 1, md: 0 }}
-          justify={'flex-end'}
-          direction={'row'}
-          spacing={6}>
-          <Button
-            as={'a'}
-            fontSize={'lg'}
-            fontWeight={400}
-            variant={'link'}
-            href={'#'}>
-            Get Started
-          </Button>
-        </Stack>
       </Flex>
 
       <Collapse in={isOpen} animateOpacity>
@@ -246,7 +231,7 @@ const NAV_ITEMS: Array<NavItem> = [
       {
         label: 'Dockasaurus Medium Article',
         subLabel: 'Please leave as many claps 👏👏👏 as you can',
-        href: '#',
+        href: 'https://hommesweethomme.medium.com/dockasaurus-rx-diagnostics-fresh-at-your-fingertips-df6cb5e8c65b',
       },
     ],
   },

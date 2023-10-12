@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/Dockasaurus.jpg';
+import logo from '../assets/TransparentDRX.png';
 
 function Intro() {
   return (
@@ -14,11 +14,13 @@ function Intro() {
         A nimble and easy-to-use DevOps container tool, Dockasaurus RX has a
         major trick up its sleeve beyond mere monitoring and visualization. It's
         more than a pulse check. To keep your applications happy and healthy,
-        Dockasaurus RX retains important vitals of all your containers for
-        7 days allowing comparisons to be drawn regarding the well-being of
+        Dockasaurus RX retains important vitals of all your containers for 7
+        days allowing comparisons to be drawn regarding the well-being of
         concurrent container workloads over a designated period.
       </h2>
-      <a href='#'>Learn More/ Link to Medium</a>
+      <a href='https://hommesweethomme.medium.com/dockasaurus-rx-diagnostics-fresh-at-your-fingertips-df6cb5e8c65b'>
+        Link to Medium article
+      </a>
       <br></br>
       <br></br>
       <br></br>
